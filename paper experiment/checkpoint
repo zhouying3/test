@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/zhouying/mytensorflow/paper experiment/model.ckpt-0"
+all_model_checkpoint_paths: "/home/zhouying/mytensorflow/paper experiment/model.ckpt-0"

@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "embedding_1:0"
+  metadata_path: "/home/zhouying/mytensorflow/paper experiment/metadata.tsv"
+  sprite {
+    image_path: "/home/zhouying/mytensorflow/paper experiment/mnist_10k_sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}
